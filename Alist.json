@@ -1,0 +1,20 @@
+    {
+        "type": "Onedrive",
+        "client_id": "d48b7dc2-a046-4f5b-8a65-9d50852620da",
+        "client_secret": "ECV8Q~kqEDLfUn5zpnIESLEKjX17ZnDEMfrDocUH",
+        "refresh_token": "0.AUoAKxb925O8HEKvxX5SLO6QjsJ9i9RGoFtPimWdUIUmINpKABA.AgABAAEAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-aTqoIojkDd-t0HsEzgsKaE-mDyVvKk8Ro32OuRrDBBSu_xhjb84KwTjOOIJ6g4FWEGUSfAUwjcB1AaQhAAsXXndnfWWiou2CYtFzTb5El9TLU_CZEM-XclO95i9yX7YOF4XcEopW7xtwptDxo1epcGmvzGAlgpZ3fUr7DMYRpLGH4Pf6EqOAcLkTWJJlBg4gXwmPsV3GfhrmQ4CGVHZK0pRxqKqicwtjKrJlH9mFQXhdZ2q6HVreO1jKAxAfuMF1onVz0r7MFAAaB7Tii5isMxsIvAMopnIQHx8-lI_ZDuvzz4GF5FJ5-CHyV4uwZhSc9cVLoi_luRZY8kvH4qmW46VX3BudLD2IiGQWtl-qwsVM3rUKg7jVC28FAgwTYKq47L-ECKUAL8GujEtoWs5wuUddLFcuRB-5W6mVo2-ia8L5KB5QKr6HRF-LnEiYqrNUIk2MtmQW7njFdRjiub_xEx2XpKWOWpwVS1zRQU_1EmKPk5sWNLpeGEmnEfWDGEz6PDqvS9Z522NleINhudCzBNU-DGDnr0WJRS5H3ZKmEMc7KiJRe8iKNwGafaxHeWIlEXswy81XYHwIzVhPtkxR2QaKjjTsobXjm-XnCPt9bk5Yn3aQoAmH3F4PmrCrzKX2A9PgxV2VN8N78gz9Gl2bNIFNxh_kj5720TvHbxreOj9-HXu-1hVir3ycoCrtHxHZPJRpg8WyLqCX7Zlwyrxw9c-fEs3lkkVhddyVe8QEnmQVfhZs8ernKB7WPK6HRJbe1EM8S_YxBjqDXF-wssX7BTYkRTHekAwfqCuT4JixtG0VofyeVxr5bY83sVYDtx2orjLc6Qo-HOlVb",
+        "zone": "global",
+        "site_id": "",
+        "redirect_uri": "https://tool.nn.ci/onedrive/callback",
+        "internal_type": "onedrive"
+    }
+    {
+        "type": "Onedrive",
+        "client_id": "fcca2bf5-4de7-4de9-8b1c-f26f2af4b345",
+        "client_secret": "jHs8Q~FBKONDw~9NsA-f-CQRcXJNFs.c_hE5ucS_",
+        "refresh_token": "0.AXYAAaAdat_TfUOx6hcaQeAdz_UryvznTelNixzybyr0s0W0AJs.AgABAAEAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P_J-7Jre9GtDLsihLrQNuh_OAbxq3ukDyq8tio6h90d8SWfSa1oM_Og08Du8yXJZz2-w5JZqQYYtR8waZHv2dQYn7Sx1EatvL0j2YboMQOtdtL5QRre-dLbrecWfkMxzu6zXi1WVKgs3Y79UfbXXgcAEudHywFm_9l7egVtB-hDXqfVYM1qtp0IqfRY31opqV8e3VAD_aFkm-Ht893dZbjS_XKeiTf80_DuLF9nTMEdIennlljZ0LPhKzknsmxpg6f49D03RcVmw3XorrXqoy2QJ5EdcNe1VynGSBhJTOvG7gM7d06x4tK6mbcGZJ5uudhXpPQDusqCCGiQr3lVfyZTs1PInNP-sO9ueeoQwtXEOF2DFqffs-aeFehs8_0bB8bkxx54D8QK1--dyFWbTjJBrRAtrGoNp6mhlHztsSJyaRuBtrVBg8mPDSvZdkO6y3DQwpfEbkIu3lVD0jIz_zy56-xSP8CLZv69bxadMgEwDxBNSOnIsic3su9EXVjZORdIGUFPta-1oDasa01zYTHHIv4A-iS0vghaB_z0fk_PwQg3qh1YNKjyPjxwwgsFUaGOmOXGHuaQ9wVOHoJ7NsSsfHfa0gWlfEEEBYOsWMbtLnvCUlzq62Mbo4yGy4AwWTdVh7-V-5CqN33qZgKHluARGpDNFBs5eeCwxoj2g5R_fTZ1EHB53Jia1SNtxfeW2lxGe9VJln35xifKF32vYG0wea0EeVwOIAm88C7t_0ORlsK0KWyH273R5les267uWtMmjh506qn43qrMNkUEzMFsseuw-1vc8hco2T5_1J9Juk7b0kqZa8s3kVxSwPvcdTg_k6PgHpxuWU6R3_hA6xBYf94",
+        "zone": "global",
+        "site_id": "",
+        "redirect_uri": "https://tool.nn.ci/onedrive/callback",
+        "internal_type": "onedrive"
+    }
